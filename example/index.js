@@ -1,4 +1,4 @@
-import { config, start } from 'mk-app-loader'
+import { config, start } from 'fk-app-loader'
 import about from './apps/about'
 import helloWorld from './apps/helloWorld'
 import example from './apps/example'

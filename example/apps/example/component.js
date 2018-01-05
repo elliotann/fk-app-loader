@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import { AppLoader } from 'mk-app-loader'
+import { AppLoader } from 'fk-app-loader'
 
 export default class ExampleComponent extends Component {
 
